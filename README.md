@@ -27,8 +27,11 @@ The data set is divided into 4 folders, respectively named Annotations, ImageSet
 
 4. Learn more
 
-Main paper: ([1]Y. Lv, Y. Fang, W. Chi, G. Chen and L. Sun, "Object Detection for Sweeping Robots in Home Scenes (ODSR-IHS): A Novel Benchmark Dataset," in *IEEE Access*, vol. 9, pp. 17820-17828, 2021, doi: 10.1109/ACCESS.2021.3053546.
-[2] Lv Y, Liu J, Chi W, et al. An Inverted Residual based Lightweight Network for Object Detection in Sweeping Robots[J]. Applied Intelligence, 2022:1-16..
+Main paper: (
+[1]Y. Lv, Y. Fang, W. Chi, G. Chen and L. Sun, "Object Detection for Sweeping Robots in Home Scenes (ODSR-IHS): A Novel Benchmark Dataset," in *IEEE Access*, vol. 9, pp. 17820-17828, 2021, doi: 10.1109/ACCESS.2021.3053546.
+
+[2] Lv Y, Liu J, Chi W, et al. An Inverted Residual based Lightweight Network for Object Detection in Sweeping Robots[J]. Applied Intelligence, 2022:1-16.
+
 [3] Y. Lv , Y Zhou , Chi W ,et al. YOLO_SRv2 An evolved version of YOLO_SR.[J] Engineering Applications of Artifical Intelligence(early access) )
 
 If you use this data set, please cite these papers:
