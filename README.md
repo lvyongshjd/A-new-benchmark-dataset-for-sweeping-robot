@@ -1,7 +1,5 @@
 # Object Detection for Sweeping Robots In the Home Scene (ODSR-IHS)：A new benchmak dataset
 
-In the latest YOLOSRv2 paper, we have expanded the dataset. The number of pictures was increased from 6,000 to 11,104 and the number of instances was increased from 16,409 to 28,381. Due to the large size of the files, we have adopted the sharing method of Baidu Netdisk. The specific link is as follows：https://pan.baidu.com/s/1y8tWlsduJO1yaWllyV-aYQ  and extraction code：bj72.
-
 1. About ODSR-IHS
 
 Object detection plays an important role in computer vision. It has a variety of applications, including security detection, vehicle recognition, and service robots. With the continuous improvement of public databases and the development of deep learning, object detection has witnessed significant breakthroughs. However, the object detection of sweeping robots during operations should consider various factors, including the camera angle, indoor scenery, and identification of object category. To the best of our knowledge, no corresponding database on these conditions has been developed. 
