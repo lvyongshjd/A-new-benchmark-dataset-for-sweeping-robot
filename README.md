@@ -33,7 +33,7 @@ If you use this dataset, please cite these papers:
 
 [2]Lv Y, Liu J, Chi W, et al. An inverted residual based lightweight network for object detection in sweeping robots[J]. Applied Intelligence, 2022, 52(11): 12206-12221.
 
-[3]Y. Lv, Y Zhou, Chi W, et al. YOLO_SRv2 An evolved version of YOLO_SR[J] Engineering Applications of Artifical Intelligence(early access), 2023)
+[3]Y. Lv, Y Zhou, W Chi, et al. YOLO_SRv2 An evolved version of YOLO_SR[J] Engineering Applications of Artifical Intelligence(early access), 2023)
 
 
 
