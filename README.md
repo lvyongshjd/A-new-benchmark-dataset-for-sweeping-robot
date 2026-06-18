@@ -35,14 +35,14 @@ If you use this dataset, please cite these papers:
 
 [3]Y. Lv, Y Zhou, W Chi, et al. YOLO_SRv2 An evolved version of YOLO_SR[J] Engineering Applications of Artifical Intelligence, 2024, 130: 107657.
 
+(1) The link of ODSR-IHS is as follows: https://github.com/MORAN-ASLDK/Pubilc-datasets/releases/download/v1.0/robot6000.zip or https://pan.baidu.com/s/1DHJ1qxBUtwe4dmLmg5aX4Q and extraction code：26SR.
 
-
-(1) In the latest YOLOSRv2 paper, we have expanded the dataset. The number of pictures was increased from 6,000 to 11,104 and the number of instances was increased from 16,409 to 28,381. Due to the large size of the files, we have adopted the sharing method of Baidu Netdisk. The specific link is as follows：https://pan.baidu.com/s/1cHka4W-uhQSI_PJI_AkkJA  and extraction code：8y8c.
+(2) In the latest YOLOSRv2 paper, we have expanded the dataset. The number of pictures was increased from 6,000 to 11,104 and the number of instances was increased from 16,409 to 28,381. Due to the large size of the files, we have adopted the sharing method of Baidu Netdisk. The specific link is as follows：https://github.com/MORAN-ASLDK/Pubilc-datasets/releases/download/v1.0/11104_18.rar or https://pan.baidu.com/s/1cHka4W-uhQSI_PJI_AkkJA and extraction code：8y8c.
  
-(2) Explains the dataset and how the data is collected
+(3) Explains the dataset and how the data is collected
 
-(3) Use mainstream algorithms based on deep learning to verify the data set
+(4) Use mainstream algorithms based on deep learning to verify the data set
 
-(4) Transplant the trained model to the chip for verification
+(5) Transplant the trained model to the chip for verification
 
 
